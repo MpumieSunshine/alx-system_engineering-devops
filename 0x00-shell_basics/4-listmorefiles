@@ -1,2 +1,2 @@
-#!bin/bash
-more lists
+#!/bin/bash
+more
